@@ -1,0 +1,4 @@
+*.pbxproj binary
+*.storyboard binary
+*.xib binary
+*.pbxproj merge=mergepbx
